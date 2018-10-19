@@ -3,3 +3,5 @@ golang在国内安装依赖包时会各种被墙, glide包管理的mirro.yaml文
 替换或新建掉 `~/.glide/mirrors.yaml` 文件即可
 
 更多参考 https://glide.readthedocs.io/en/latest/commands/#glide-mirror
+
+## 欢迎PR补充完善列表！
