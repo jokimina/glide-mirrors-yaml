@@ -29,7 +29,7 @@ repos:
 - original: https://google.golang.org/grpc
   repo: https://github.com/grpc/grpc-go
   vcs: git
-- original: https://godoc.org/golang.org/x/tools
+- original: https://golang.org/x/tools
   repo: https://github.com/golang/tools
   vcs: git
 - original: https://golang.org/x/tour/gotour
@@ -41,10 +41,10 @@ repos:
 - original: https://golang.org/x/lint/golint
   repo: https://github.com/golang/lint
   vcs: git
-- original: https://godoc.org/golang.org/x/exp
+- original: https://golang.org/x/exp
   repo: https://github.com/golang/exp
   vcs: git
-- original: https://godoc.org/golang.org/x/image
+- original: https://golang.org/x/image
   repo: https://github.com/golang/image
   vcs: git
 - original: https://golang.org/x/sync
