@@ -4,5 +4,10 @@ golang在国内安装依赖包时会各种被墙, glide包管理的mirrors.yaml�
 
 更多参考 https://glide.readthedocs.io/en/latest/commands/#glide-mirror
 
-## 觉得更好的方案 使用二级代理
+# 更好的方案 
+## 使用二级代理
 参考 https://github.com/cyfdecyf/cow
+
+## 使用 `go mod`, 国内有现成代理站点
+
+参考 https://goproxy.io/
